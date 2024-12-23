@@ -10,7 +10,7 @@ Da biste instalirali potrebne pakete pokrecete u terminalu komande:
 
 ```bash
 python -m venv venv
-.\\venv\\bin\\activate
+.\venv\bin\activate
 pip install -r requirements.txt
 ```
 **Linux/Mac**
