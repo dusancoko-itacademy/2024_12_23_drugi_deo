@@ -1,2 +1,4 @@
-# 2024_12_23_drugi_deo
-Dodatna pojasnjenja za pokretanje Python koda, kao i odgovori na pitanja i zadaci za vezbu.
+# Drugo predavanje za Introduction to Git and Github
+
+>[!NOTE]
+>This is not an aactual application only a demonstrational repository with some Python examples. Don't use this for actual projects.
